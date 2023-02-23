@@ -17,8 +17,14 @@
 - Cosan 
 - Ethikopia 
 - Maraville 
+
+&ensp;
 ## Kaki Lima 
+
+&ensp;
 ## Restaurant 
+
+&ensp;
 ## Non-Halal
 - Nasi Goreng Ketandan 
 - Nasi Campur Bu Komang 
