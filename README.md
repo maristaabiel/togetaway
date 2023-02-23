@@ -10,10 +10,17 @@
 ### Restaurant
 ### Non-Halal
 
+
 &ensp;
 ## Coffeeshop 
-- [x] Kemari
+- Kemari
+- Cosan 
+- Ethikopia 
+- Maraville 
 ## Kaki Lima 
 ## Restaurant 
 ## Non-Halal
+- Nasi Goreng Ketandan 
+- Nasi Campur Bu Komang 
+- Babi Guling Bimakroda
 
