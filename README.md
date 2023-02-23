@@ -1,28 +1,33 @@
 # to.getaway
 -----
 
+
 ### Right place to find your get-away place to eat!  
  
 &ensp;
 ## `Table of Contents` 
-### Coffeeshop 
-### Kaki Lima
-### Restaurant
-### Non-Halal
+### [Coffeeshop](#coffeeshop)
+### [Bakmi](#bakmi)
+### [Bubur](#bubur)
+### [Non-Halal](#non-halal)
 
 
 &ensp;
 ## Coffeeshop 
-- Kemari
+- Kemari 
 - Cosan 
 - Ethikopia 
 - Maraville 
 
 &ensp;
-## Kaki Lima 
+## Bakmi
+- Gendhis Jawi
+- Bakmi Gandaria 
 
 &ensp;
-## Restaurant 
+## Bubur
+- Bubur Hayam 
+- Bubur Ayam Pak Radi 
 
 &ensp;
 ## Non-Halal
