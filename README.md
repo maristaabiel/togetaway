@@ -10,3 +10,10 @@
 ### Restaurant
 ### Non-Halal
 
+&ensp;
+## Coffeeshop 
+- [x] Kemari
+## Kaki Lima 
+## Restaurant 
+## Non-Halal
+
