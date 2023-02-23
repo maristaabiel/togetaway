@@ -35,3 +35,11 @@
 - Nasi Campur Bu Komang 
 - Babi Guling Bimakroda
 
+
+
+&ensp;
+<div id="footer" align="center">
+
+<div id="badges">
+  <a href="instagram.com/to.getaway">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
